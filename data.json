@@ -1,0 +1,19 @@
+{
+    "basics":{
+        "name":"Jaya pradeep karra",
+        "role":"Fresher",
+        "contact":"+919505042920",
+        "email":"pradeepkarra29@gmail.com",
+        "education":[
+            {
+                "degree":"SSC","percentage":"88"
+            },
+            {
+                "degree":"INTER","percentage":"92.2"
+            },
+            {
+                "degree":"B-TECH","percentage":"**.*"
+            }
+        ]
+    }
+}
